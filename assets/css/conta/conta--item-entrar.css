@@ -1,0 +1,4 @@
+.conta__item--entrar:hover {
+  color: var(--cinza-escuro);
+  transition: 300ms;
+}

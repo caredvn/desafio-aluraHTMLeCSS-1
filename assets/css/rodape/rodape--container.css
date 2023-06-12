@@ -1,0 +1,5 @@
+.rodape__container {
+  display: flex;
+  column-gap: 1em;
+  justify-content: center;
+}

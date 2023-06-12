@@ -1,0 +1,7 @@
+.vagas__paragrafo {
+  margin-bottom: 3em;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: var(--cinza-claro);
+}

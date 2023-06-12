@@ -1,0 +1,9 @@
+.menu__link {
+  text-decoration: none;
+  color: var(--cinza-claro);
+}
+
+.menu__link:hover {
+  color: var(--vinho);
+  transition: 300ms;
+}

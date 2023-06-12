@@ -1,0 +1,11 @@
+.depoimentos {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 5em;
+  padding: 64px;
+  gap: 4px;
+  background: rgba(196, 25, 25, 0.03);
+  border-radius: 16px;
+}

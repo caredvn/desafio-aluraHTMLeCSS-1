@@ -1,0 +1,7 @@
+.rodape__titulo {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: -0.02em;
+  color: var(--cinza-escuro);
+}

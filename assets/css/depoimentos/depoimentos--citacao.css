@@ -1,0 +1,8 @@
+.depoimentos__citacao {
+  font-size: 36px;
+  line-height: 44px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  color: var(--cinza-escuro);
+  margin-bottom: 1em;
+}

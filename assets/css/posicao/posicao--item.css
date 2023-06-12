@@ -1,0 +1,14 @@
+.posicao__item {
+  padding: 24px 24px 28px;
+  gap: 24px;
+  border: 1px solid #EAECF0;
+  border-radius: 16px;
+  margin-bottom: 1em;
+}
+
+.posicao__item span {
+  color: var(--cinza-claro);
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0 2em 0 0;
+}

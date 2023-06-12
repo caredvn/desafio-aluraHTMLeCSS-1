@@ -1,0 +1,7 @@
+.depoimentos__subtitulo {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--vinho);
+  margin-bottom: 0.5em;
+}

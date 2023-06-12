@@ -1,0 +1,7 @@
+.estatistica__titulo {
+  font-weight: 500;
+  font-size: 18px;
+  color: var(--cinza-escuro);
+  line-height: 28px;
+  margin-top: 0.5em;
+}

@@ -1,0 +1,10 @@
+.posicao {
+  list-style-type: none;
+  color: var(--cinza-escuro);
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.posicao:nth-child(2) {
+  margin-top: 2em;
+}
