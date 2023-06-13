@@ -26,7 +26,7 @@ O desafio consiste em testar as habilidades adquiridas dentro do HTML e do CSS, 
 
 ### Links
 
-- URL da minha solução ![OptimusTech - Solução](https://desafio-alura-html-e-css-1.vercel.app)
+- URL da minha solução [OptimusTech - Solução](https://desafio-alura-html-e-css-1.vercel.app)
 
 ## Meu processo
 
@@ -47,8 +47,8 @@ Nos meus próximos projetos, planejo trabalhar melhor na responsividade de um we
 
 ## Autora
 
-- Linkedin - ![Caren de Paula Lourenço Divino](https://www.linkedin.com/in/caren-de-paula-lourenço-divino-1a8536231/)
-- Github - ![Caren Divino](https://github.com/caredvn)
+- Linkedin - [Caren de Paula Lourenço Divino](https://www.linkedin.com/in/caren-de-paula-lourenço-divino-1a8536231/)
+- Github - [Caren Divino](https://github.com/caredvn)
 
 ## Reconhecimentos
 
