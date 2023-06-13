@@ -53,4 +53,4 @@ Nos meus próximos projetos, planejo trabalhar melhor na responsividade de um we
 ## Reconhecimentos
 
 Tudo o que foi utilizado na criação desse projeto foi aprendido nos cursos alura.
-- Alura - ![Escola Front-End](https://www.alura.com.br/escola-front-end)
+- Alura - [Escola Front-End](https://www.alura.com.br/escola-front-end)
