@@ -1,5 +1,5 @@
 # Desafio 7daysOfCode - HTML e CSS
-Essa é a minha solução do desafio Alura! o desafio consiste na construção da interface do site de vagas de empregos "OptimusTech".
+Essa é a minha solução do desafio Alura! O desafio consiste na construção da interface do site de vagas de empregos "OptimusTech".
 
 
 ## Conteúdos
