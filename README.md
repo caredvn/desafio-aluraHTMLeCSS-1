@@ -47,7 +47,7 @@ Nos meus próximos projetos, planejo trabalhar melhor na responsividade de um we
 
 ## Autora
 
-- Linkedin - [Caren de Paula Lourenço Divino](https://www.linkedin.com/in/caren-de-paula-lourenço-divino-1a8536231/)
+- Linkedin - [Caren de Paula Lourenço Divino](https://www.linkedin.com/in/carendvn/)
 - Github - [Caren Divino](https://github.com/caredvn)
 
 ## Reconhecimentos
